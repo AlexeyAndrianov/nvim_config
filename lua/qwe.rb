@@ -11,6 +11,9 @@ def qwe
   puts 'qwe'
 end
 
+def qwe3
+  map { |_1| }
+end
 qwe
-
+[].map { |e| }
 qwe2
