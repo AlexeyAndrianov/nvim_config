@@ -7,6 +7,10 @@ class ABS
   end
 end
 
+def qwe4
+  puts 'qwe3'
+end
+
 def qwe
   puts 'qwe'
 end
